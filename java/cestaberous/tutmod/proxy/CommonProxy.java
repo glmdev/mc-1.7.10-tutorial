@@ -1,6 +1,7 @@
 package cestaberous.tutmod.proxy;
 
 import cestaberous.tutmod.blocks.TutmodBlocks;
+import cestaberous.tutmod.crafting.TutorialCrafting;
 import cestaberous.tutmod.items.TutmodItems;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
@@ -16,7 +17,7 @@ public class CommonProxy {
 	}
 	
 	public void init( FMLInitializationEvent e ){
-		
+		TutorialCrafting.init();
 		
 		
 	}
