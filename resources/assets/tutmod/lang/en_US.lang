@@ -1,3 +1,10 @@
 item.tutorialItem.name=Tutorial Item
 
 tile.tutorialBlock.name=Tutorial Block
+tile.tutorialSidedBlock.name=Sided Texture Block
+
+tile.tutorialMetaBlock_0.name=Metadata Block (Black)
+tile.tutorialMetaBlock_1.name=Metadata Block (Yellow)
+tile.tutorialMetaBlock_2.name=Metadata Block (Blue)
+tile.tutorialMetaBlock_3.name=Metadata Block (Green)
+tile.tutorialMetaBlock_4.name=Metadata Block (White)
